@@ -5,4 +5,5 @@ Worked on a new rocket company named "SpaceY" that would like to compete with Sp
 Using the different Data Science techniques to gathere information about Space X and create dashboards and use machine learning to determine the price of each launch, predict if the first stage will land sccessfully and predict if SpaceX will reuse the first stage.
 
 <h2>Project Steps:</h2>
-1. Get the rocket launch data from the SpaceX API
+
+1. Collected the rocket launch data from the SpaceX API --> <a href="">NoteBook</a>
