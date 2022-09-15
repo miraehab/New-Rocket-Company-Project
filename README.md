@@ -7,3 +7,4 @@ Using the different Data Science techniques to gathere information about Space X
 <h2>Project Steps:</h2>
 
 1. Collected the rocket launch data from the SpaceX API --> <a href="">NoteBook</a>
+2. Web-scraped the SpaceX table in the wikipedia page to collect Falcon 9 historical launch records --> <a href="">NoteBook</a>
