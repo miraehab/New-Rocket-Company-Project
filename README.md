@@ -2,7 +2,7 @@
 
 <h2>Description:</h2>
 Worked on a new rocket company named "SpaceY" that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk.
-Using the different Data Science techniques to gathere information about Space X and create dashboards and use machine learning to determine the price of each launch, predict if the first stage will land sccessfully and predict if SpaceX will reuse the first stage.
+Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. to compete with SpaceX we need to understand these informations.
 
 <h2>Project Steps:</h2>
 
